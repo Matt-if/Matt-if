@@ -46,7 +46,6 @@ Team project - Java, Spring Boot, MySQL, React
 - 🤝 Let’s connect: Feel free to reach out via LinkedIn or check out my pinned repos below!
 
 ### Contact me
-<a href="linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" >
-</a>
+<a href="www.linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" > </a>
+
 Thanks for stopping by!
