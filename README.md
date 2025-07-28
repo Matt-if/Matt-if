@@ -10,7 +10,7 @@
 - Practices: REST API design, JWT authentication, unit testing with JUnit, Agile/SCRUM
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)](#)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
