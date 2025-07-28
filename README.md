@@ -2,14 +2,14 @@
 🎓 Information Systems student (3rd year), specializing in Java Back-End Development, currently at Universidad Nacional de La Plata.
 🌱 Passionate about building reliable server-side applications, learning modern DevOps practices, and exploring the networking world.
 
-# 🛠️ Tech Stack
-Languages: Java, SQL, Bash, JavaScript , Python
-Frameworks: Spring Boot, Spring Data JPA, React
-Databases: MySQL, H2
-Tools: Docker, Git & GitHub, Postman, Linux CLI, PlantUML, Taiga, MySQL Workbench, phpMyAdmin
-Practices: REST API design, JWT authentication, unit testing with JUnit, Agile/SCRUM
+## 🛠️ Tech Stack
+- Languages: Java, SQL, Bash, JavaScript , Python
+- Frameworks: Spring Boot, Spring Data JPA, React
+- Databases: MySQL, H2
+- Tools: Docker, Git & GitHub, Postman, Linux CLI, PlantUML, Taiga, MySQL Workbench, phpMyAdmin
+- Practices: REST API design, JWT authentication, unit testing with JUnit, Agile/SCRUM
 
-# 🚀 Projects
+## 🚀 Projects
 ### ♻️ Recycling Tracking Platform
 Solo project - Java, Spring Boot, MySQL, React, Docker
 - A web app for tracking waste retrievals, with secure authentication and public data dashboards.
@@ -28,8 +28,8 @@ Team project - Java, Spring Boot, MySQL, React
 - CI/CD basics: Automating build and deploy with GitHub Actions.
 
 ### More About Me
-🖥️ Interested in: Back-end development, server administration, networking, DevOps
-🗣️ Languages: Spanish (Native), English (B2)
-🤝 Let’s connect: Feel free to reach out via LinkedIn or check out my pinned repos below!
+- 🖥️ Interested in: Back-end development, server administration, networking, DevOps
+- 🗣️ Languages: Spanish (Native), English (B2)
+- 🤝 Let’s connect: Feel free to reach out via LinkedIn or check out my pinned repos below!
 
 Thanks for stopping by!
