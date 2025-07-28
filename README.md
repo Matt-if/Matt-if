@@ -33,13 +33,19 @@ Team project - Java, Spring Boot, MySQL, React
 - View on GitHub
 
 ### 📚 What I’m Learning
-- Cloud deployment: Practicing with Docker and experimenting on cloud hosts (AWS/GCP).
+- Cloud deployment: Practicing with Docker and experimenting on cloud hosts (AWS).
 - Linux servers & networking fundamentals
 - CI/CD basics: Automating build and deploy with GitHub Actions.
+
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 
 ### More About Me
 - 🖥️ Interested in: Back-end development, server administration, networking, DevOps
 - 🗣️ Languages: Spanish (Native), English (B2)
 - 🤝 Let’s connect: Feel free to reach out via LinkedIn or check out my pinned repos below!
+
+### Contact me
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" href="linkedin.com" /img>
 
 Thanks for stopping by!
