@@ -9,15 +9,15 @@
 - Tools: Docker, Git & GitHub, Postman, Linux CLI, PlantUML, Taiga, MySQL Workbench, phpMyAdmin
 - Practices: REST API design, JWT authentication, unit testing with JUnit, Agile/SCRUM
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)(#)
+![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)(#)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)(#)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)](#)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)(#)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](#)
 
 
 ## 🚀 Projects
