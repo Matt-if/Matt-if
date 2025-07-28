@@ -17,6 +17,7 @@
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 
 ## 🚀 Projects
