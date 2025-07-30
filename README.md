@@ -25,15 +25,15 @@
 Solo project - Java, Spring Boot, MySQL, React, Docker
 - A web app for tracking waste retrievals, with secure authentication and public data dashboards.
 - 📦 Containerized with Docker, aiming for cloud deployment.
-- View on GitHub
+- <a href="https://github.com/Matt-if/RecolectandoAPI" > Back-end repo </a> <--> <a href="https://github.com/Matt-if/RecolectandoFront" > Front-end repo </a>
 
 ### 🚗 Car Rental Management System
 Team project - Java, Spring Boot, MySQL, React
 - Delivered a platform for managing car rentals, featuring role-based access, REST APIs, and robust database models.
 - 🤝 Worked closely under Agile with technical documentation and planning.
-- View on GitHub
+- <a href="https://github.com/Matt-if/AlquilandoAppWeb" > Back-end repo </a> <--> <a href="https://github.com/Atserc/alquilandoFrontEnd" > Front-end repo </a>
 
-### 📚 What I’m Learning
+### 📚 Experimenting with
 - Cloud deployment: Practicing with Docker and experimenting on cloud hosts (AWS).
 - Linux servers & networking fundamentals
 - CI/CD basics: Automating build and deploy with GitHub Actions.
