@@ -21,14 +21,14 @@
 
 
 ## 🚀 Projects
-### ♻️ Recycling Tracking Platform
-Solo project - Java, Spring Boot, MySQL, React, Docker
+### ♻️ Recolectando
+Creator - Java, Spring Boot, MySQL, React, Docker
 - A web app for tracking waste retrievals, with secure authentication and public data dashboards.
 - 📦 Containerized with Docker, aiming for cloud deployment.
 - <a target="_blank" rel="noopener noreferrer" href="https://github.com/Matt-if/RecolectandoAPI" > Back-end repo </a> <--> <a target="_blank" rel="noopener noreferrer" href="https://github.com/Matt-if/RecolectandoFront" > Front-end repo </a>
 
-### 🚗 Car Rental Management System
-Team project - Java, Spring Boot, MySQL, React
+### 🚗 Vehicle Rental Management
+Team member - Java, Spring Boot, MySQL, React
 - Delivered a platform for managing car rentals, featuring role-based access, REST APIs, and robust database models.
 - 🤝 Worked closely under Agile with technical documentation and planning.
 - <a target="_blank" rel="noopener noreferrer" href="https://github.com/Matt-if/AlquilandoAppWeb" > Back-end repo </a> <--> <a target="_blank" rel="noopener noreferrer" href="https://github.com/Atserc/alquilandoFrontEnd" > Front-end repo </a>
@@ -42,7 +42,7 @@ Team project - Java, Spring Boot, MySQL, React
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 
 ### More About Me
-- 🖥️ Interested in: Back-end development, server administration, networking, DevOps
+- 🖥️ Interested in: Back-end development, server administration, networking & DevOps
 - 🗣️ Languages: Spanish (Native), English (B2)
 - 🤝 Let’s connect: Feel free to reach out via LinkedIn or check out my pinned repos below!
 
